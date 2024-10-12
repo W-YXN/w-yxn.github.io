@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: My Story
+      title: My Story 📕
       text: |
         I am an undergraduate student pursuing a degree in Mechatronics at Xi'an Jiaotong-Liverpool University. My research interests lie at the intersection of human-computer interaction (HCI) and computer science, with a particular emphasis on spatial computing, interaction paradigms, and computational interaction. 
 
