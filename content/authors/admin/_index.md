@@ -34,9 +34,9 @@ organizations:
 profiles:
   - icon: brands/github
     url: https://github.com/W-YXN
-  - icon: academicons/google-scholar
+  - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=gVwzPYAAAAAJ
-  - icon: academicons/orcid
+  - icon: brands/orcid
     url: https://orcid.org/0009-0006-7469-3980
 
 interests:
@@ -46,34 +46,34 @@ interests:
   - Computer Graphic
 
 education:
-  - area: BEng Artificial Intelligence
+  - area: BEng Mechatronics and Robotic Systems
     institution: Xi'an Jiaotong-Liverpool University
     date_start: 2022-09-01
     date_end: ''
 
 work:
   - position: Research Scientist Intern
-    company_name: HCI Lab, Institute of Software, Chinese Academy of Sciences
+    company_name: HCI Tech Lab, Institute of Software, Chinese Academy of Sciences
     company_url: 'https://is.cas.cn/'
     company_logo: ''
     date_start: 2024-07-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Student Collaborator (Remote)
+    company_name: BCU-HCI Lab, Birmingham City University 
+    company_logo: ''
+    date_start: 2023-09-10
+    date_end: 2024-05-30
   - position: Research Assistant
     company_name: X-CHI Lab, Xi'an Jiaotong-Liverpool University
     company_url: 'https://www.xjtlu.edu.cn/en/'
     company_logo: ''
-    date_start: 2023-01-01
-    date_end: ''
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2023-09-07
+    date_end: 2024-08-31
+  - position: Student Collaborator (Remote)
+    company_name:  Futures Lab, Purdue University
+    company_logo: ''
+    date_start: 2023-07-01
+    date_end: 2023-09-10
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -97,7 +97,7 @@ languages:
   - name: Chinese
     percent: 100
   - name: English
-    percent: 70
+    percent: 88
   - name: Japanese
     percent: 20
 
