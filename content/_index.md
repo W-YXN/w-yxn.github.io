@@ -44,6 +44,8 @@ sections:
 
         I will be completing my undergraduate studies in June 2026 and am actively seeking research assistant or doctoral opportunities in the fields of HCI, XR, and interaction technologies. I would be delighted to discuss <strong>any</strong> potential collaborations or opportunities with you.
 
+        Please contact me via email at contact#xinan-yan.com. Replace '#' to '@'.
+
   # - block: collection
   #   id: papers
   #   content:
@@ -56,6 +58,7 @@ sections:
   #     view: article-grid
   #     columns: 2
   - block: collection
+    id: papers
     content:
       title: Recent Publications
       text: ""
