@@ -34,15 +34,16 @@ sections:
     content:
       title: My Story 📕
       text: |
-        I am an undergraduate student pursuing a degree in Mechatronics at Xi'an Jiaotong-Liverpool University. My research interests lie at the intersection of human-computer interaction (HCI) and computer science, with a particular emphasis on spatial computing, interaction paradigms, and computational interaction. 
+        I am an undergraduate student pursuing a degree in Mechatronics at Xi'an Jiaotong-Liverpool University. My research interests lie at the intersection of human-computer interaction (HCI) and computer science, with a particular emphasis on spatial computing, interaction paradigms, and computational interaction.
 
-        My academic journey has afforded me the opportunity to work under the guidance of renowned researchers, including [Prof. Hai-Ning Liang](https://cma.hkust-gz.edu.cn/people/hai-ning-liang/) during my tenure at XJTLU. I am currently engaged in research at the Institute of Software, Chinese Academy of Sciences, under the supervision of [Prof. Jin Huang](https://people.ucas.ac.cn/~huangjin).
+        My academic journey has afforded me the opportunity to work under the guidance of renowned researchers, including <a href="https://cma.hkust-gz.edu.cn/people/hai-ning-liang/">Prof. Hai-Ning Liang</a> during my tenure at XJTLU. I am currently engaged in research at the Institute of Software, Chinese Academy of Sciences, under the supervision of <a href="https://people.ucas.ac.cn/~huangjin">Prof. Jin Huang</a>.
 
-        Throughout my academic career, I have had the opportunity to work with respected experts in the field, including Prof. Dominic Kao at Purdue University and Prof. Wenge Xu at Birmingham City University. [These experiences](/experience/) have enhanced my comprehension of human-computer interaction (HCI) and extended reality (XR) technologies.
+        Throughout my academic career, I have had the opportunity to work with respected experts in the field, including Prof. Dominic Kao at Purdue University and Prof. Wenge Xu at Birmingham City University. <a href="/experience/">These experiences</a> have enhanced my comprehension of human-computer interaction (HCI) and extended reality (XR) technologies.
 
-        In addition to my research interests in HCI, I have a robust foundation in robotics, having participated in the [RoboMaster](https://www.robomaster.com/en-US) robotics competition, hosted by [DJI](https://www.dji.com/). In this capacity, I contributed to the design and development of robots, thereby developing my skills in hardware design and ROS2. My [GitHub profile](https://github.com/W-YXN) provides an overview of my robotics-related projects (in my organization page).
+        In addition to my research interests in HCI, I have a robust foundation in robotics, having participated in the <a href="https://www.robomaster.com/en-US">RoboMaster</a> robotics competition, hosted by <a href="https://www.dji.com/">DJI</a>. In this capacity, I contributed to the design and development of robots, thereby developing my skills in hardware design and ROS2. My <a href="https://github.com/W-YXN">GitHub profile</a> provides an overview of my robotics-related projects (in my organization page).
 
-        I will be completing my undergraduate studies in June 2026 and am actively seeking research assistant or doctoral opportunities in the fields of HCI, XR, and interaction technologies. I would be delighted to discuss **any** potential collaborations or opportunities with you.
+        I will be completing my undergraduate studies in June 2026 and am actively seeking research assistant or doctoral opportunities in the fields of HCI, XR, and interaction technologies. I would be delighted to discuss <strong>any</strong> potential collaborations or opportunities with you.
+
   # - block: collection
   #   id: papers
   #   content:
