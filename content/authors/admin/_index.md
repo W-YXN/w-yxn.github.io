@@ -41,8 +41,7 @@ profiles:
 
 interests:
   - HCI (Human Computer Interaction)
-  - Virtual Reality
-  - Mixed Reality
+  - VR / AR / MR
   - Computer Graphic
 
 education:
@@ -55,23 +54,23 @@ work:
   - position: Research Scientist Intern
     company_name: HCI Tech Lab, Institute of Software, Chinese Academy of Sciences
     company_url: 'https://is.cas.cn/'
-    company_logo: ''
+    company_logo: custom/cn
     date_start: 2024-07-01
     date_end: ''
   - position: Student Collaborator (Remote)
     company_name: BCU-HCI Lab, Birmingham City University 
-    company_logo: ''
+    company_logo: custom/gb
     date_start: 2023-09-10
     date_end: 2024-05-30
   - position: Research Assistant
     company_name: X-CHI Lab, Xi'an Jiaotong-Liverpool University
     company_url: 'https://www.xjtlu.edu.cn/en/'
-    company_logo: ''
+    company_logo: custom/cn
     date_start: 2023-09-07
     date_end: 2024-08-31
   - position: Student Collaborator (Remote)
     company_name:  Futures Lab, Purdue University
-    company_logo: ''
+    company_logo: custom/us
     date_start: 2023-07-01
     date_end: 2023-09-10
 
@@ -87,11 +86,11 @@ skills:
       - name: C#
         description: ''
         percent: 60
-        icon: chart-bar
+        icon: custom/unity-brands-solid
       - name: Python
         description: ''
         percent: 55
-        icon: circle-stack
+        icon: custom/python-brands-solid
 
 languages:
   - name: Chinese
