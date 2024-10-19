@@ -34,8 +34,10 @@ organizations:
 profiles:
   - icon: brands/github
     url: https://github.com/W-YXN
-  - icon: brands/google-scholar
+  - icon: custom/google-scholar
     url: https://scholar.google.com/citations?user=gVwzPYAAAAAJ
+  - icon: custom/linkedin
+    url: https://www.linkedin.com/in/xinan-yan-8a60bb244/
   - icon: brands/orcid
     url: https://orcid.org/0009-0006-7469-3980
 
