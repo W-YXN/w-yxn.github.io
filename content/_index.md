@@ -34,11 +34,11 @@ sections:
     content:
       title: My Story 📕
       text: |
-        I am an undergraduate student pursuing a degree in Mechatronics at Xi'an Jiaotong-Liverpool University. My research interests lie at the intersection of human-computer interaction (HCI) and computer science, with a particular emphasis on spatial computing, interaction paradigms, and computational interaction.
+        I am an undergraduate student pursuing a degree in Mechatronics at Xi'an Jiaotong-Liverpool University, graduating in 2026. My research interests lie at the intersection of human-computer interaction (HCI) and computer science, with a particular emphasis on spatial computing, interaction paradigms, and computational interaction.
 
         My academic journey has afforded me the opportunity to work under the guidance of renowned researchers, including <a href="https://cma.hkust-gz.edu.cn/people/hai-ning-liang/">Prof. Hai-Ning Liang</a> during my tenure at XJTLU. I am currently engaged in research at the Institute of Software, Chinese Academy of Sciences, under the supervision of <a href="https://people.ucas.ac.cn/~huangjin">Prof. Jin Huang</a>.
 
-        Throughout my academic career, I have had the opportunity to work with respected experts in the field, including Prof. Dominic Kao at Purdue University and Prof. Wenge Xu at Birmingham City University. <a href="/experience/">These experiences</a> have enhanced my comprehension of human-computer interaction (HCI) and extended reality (XR) technologies.
+        Throughout my academic career, I have had the opportunity to work with respected experts in the field, including Prof. Dominic Kao at Purdue University and Dr. Wenge Xu at Birmingham City University. <a href="/experience/">These experiences</a> have enhanced my comprehension of human-computer interaction (HCI) and extended reality (XR) technologies.
 
         In addition to my research interests in HCI, I have a robust foundation in robotics, having participated in the <a href="https://www.robomaster.com/en-US">RoboMaster</a> robotics competition, hosted by <a href="https://www.dji.com/">DJI</a>. In this capacity, I contributed to the design and development of robots, thereby developing my skills in hardware design and ROS2. My <a href="https://github.com/W-YXN">GitHub profile</a> provides an overview of my robotics-related projects (in my organization page).
 
