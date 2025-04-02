@@ -106,4 +106,4 @@ languages:
 
 ## About Me
 
-Xinan Yan is an undergraduate student specializing in human-computer interaction and virtual reality. His research interests include the development of interactive applications and the design of experiments. He is an active contributor to academic writing and participates in international conferences.
+Xinan "William" Yan is an undergraduate student specializing in human-computer interaction and virtual reality. His research interests include the development of interactive applications and the design of experiments. He is an active contributor to academic writing and participates in international conferences.
