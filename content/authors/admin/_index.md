@@ -37,7 +37,7 @@ profiles:
   - icon: custom/google-scholar
     url: https://scholar.google.com/citations?user=gVwzPYAAAAAJ
   - icon: custom/linkedin
-    url: https://www.linkedin.com/in/xinan-yan-8a60bb244/
+    url: https://www.linkedin.com/in/xinan-yan/
   - icon: brands/orcid
     url: https://orcid.org/0009-0006-7469-3980
 
@@ -106,4 +106,6 @@ languages:
 
 ## About Me
 
-Xinan "William" Yan is an undergraduate student specializing in human-computer interaction and virtual reality. His research interests include the development of interactive applications and the design of experiments. He is an active contributor to academic writing and participates in international conferences.
+Xinan "William" Yan is an undergraduate researcher in human-computer interaction and virtual reality at Xi’an Jiaotong-Liverpool University, expected to graduate in July 2026.
+
+His research focuses on text entry, 3D user interfaces, and interaction techniques for immersive environments. He is currently a Visiting Researcher at Tohoku University, and also works with HKUST (Guangzhou) and the Institute of Software, Chinese Academy of Sciences.
