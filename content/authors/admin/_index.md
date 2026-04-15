@@ -20,16 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Researcher
+role: Undergraduate Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Xi'an Jiaotong-Liverpool University
     url: https://www.xjtlu.edu.cn/en/
-  - name: Institute of Software, Chinese Academy of Sciences
-    url: https://is.cas.cn/
-  - name: Tohoku University
-    url: https://www.tohoku.ac.jp/en/
   - name: Hong Kong University of Science and Technology (Guangzhou)
     url: https://www.hkust-gz.edu.cn/
 
