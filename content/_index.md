@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2026-04-15
 type: landing
 
 design:
@@ -34,17 +34,23 @@ sections:
     content:
       title: My Story 📕
       text: |
-        I am an undergraduate student pursuing a degree in Mechatronics at Xi'an Jiaotong-Liverpool University, graduating in 2026. My research interests lie at the intersection of human-computer interaction (HCI) and computer science, with a particular emphasis on spatial computing, interaction paradigms, and computational interaction.
-
-        My academic journey has afforded me the opportunity to work under the guidance of renowned researchers, including <a href="https://cma.hkust-gz.edu.cn/people/hai-ning-liang/">Prof. Hai-Ning Liang</a> during my tenure at XJTLU. I am currently engaged in research at the Institute of Software, Chinese Academy of Sciences, under the supervision of <a href="https://people.ucas.ac.cn/~huangjin">Prof. Jin Huang</a>.
-
-        Throughout my academic career, I have had the opportunity to work with respected experts in the field, including Prof. Dominic Kao at Purdue University and Dr. Wenge Xu at Birmingham City University. <a href="/experience/">These experiences</a> have enhanced my comprehension of human-computer interaction (HCI) and extended reality (XR) technologies.
-
-        In addition to my research interests in HCI, I have a robust foundation in robotics, having participated in the <a href="https://www.robomaster.com/en-US">RoboMaster</a> robotics competition, hosted by <a href="https://www.dji.com/">DJI</a>. In this capacity, I contributed to the design and development of robots, thereby developing my skills in hardware design and ROS2. My <a href="https://github.com/W-YXN">GitHub profile</a> provides an overview of my robotics-related projects (in my organization page).
-
-        I will be completing my undergraduate studies in June 2026 and am actively seeking research assistant or doctoral opportunities in the fields of HCI, XR, and interaction technologies. I would be delighted to discuss <strong>any</strong> potential collaborations or opportunities with you.
-
-        Please contact me via email at contact#xinan-yan.com. Replace '#' to '@'.
+          I am an undergraduate researcher in human-computer interaction (HCI) and extended reality (XR), currently pursuing a BEng in Mechatronics and Robotic Systems at Xi’an Jiaotong-Liverpool University, with expected graduation in July 2026.
+          
+            
+          My research lies at the intersection of HCI, XR, and 3D user interfaces, with a particular focus on text entry, computational approaches, and multimodal interaction techniques for spatial computing. I am especially interested in designing robust and expressive interaction methods for immersive environments under real-world constraints.
+          
+            
+          Currently, I am a <strong>Visiting Researcher</strong> at the ICD Lab, Tohoku University, leading a project on gaze-assisted text entry in VR. In parallel, I work as a <strong>Research Assistant</strong> with the FIT-AWE Lab at HKUST (Guangzhou), and as a <strong>Research Scientist Intern</strong> at the Institute of Software, Chinese Academy of Sciences.
+          
+            
+          I have co-authored research published in top-tier venues including <strong>CHI, IEEE TVCG, ISMAR, SUI, and PACM CGIT</strong>.
+          
+            
+          Before focusing on HCI, I developed a strong foundation in robotics and embedded systems through RoboMaster and ROS2-based multi-robot development. This engineering background continues to shape my research perspective, bridging the gap between hardware sensing, computational modeling, and human-centered design.
+          
+            
+          I am actively seeking future Ph.D. and research opportunities in HCI, XR, and interactive computing. Please feel free to reach out via email at contact#xinan-yan.com (replace '#' with '@').
+          
 
   # - block: collection
   #   id: papers
