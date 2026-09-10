@@ -18,6 +18,7 @@ publication_types:
 publication: '*Proceedings of the 2026 CHI Conference on Human Factors in Computing
   Systems*'
 doi: 10.1145/3772318.3791672
+url_pdf: /uploads/papers/n-ary-gaussian-model.pdf
 abstract: This paper presents an N-ary Gaussian Model for predicting endpoint distributions
   in pointing tasks across task scenarios. Built on the foundational principles of
   the Ternary Gaussian model series, our model framework allows researchers to define

@@ -15,6 +15,7 @@ publication_types:
 - article-journal
 publication: '*ACM Transactions on Graphics*'
 doi: 10.1145/3842586
+url_pdf: /uploads/papers/intentgaze.pdf
 links:
 - name: URL
   url: https://doi.org/10.1145/3842586

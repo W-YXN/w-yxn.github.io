@@ -14,6 +14,7 @@ publication_types:
 - article-journal
 publication: '*IEEE Transactions on Visualization and Computer Graphics*'
 doi: 10.1109/TVCG.2026.3680697
+url_pdf: /uploads/papers/freehand-polyhedron-selection.pdf
 abstract: "Virtual reality (VR) allows users to observe and manipulate 3D geometry
   from multiple viewpoints. Most VR selection work, however, optimizes techniques
   for selecting entire objects. Selecting a single face on a polyhedron remains underexplored
